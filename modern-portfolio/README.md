@@ -2,7 +2,7 @@
 This is my personal developer portfolio website built to showcase my skills, projects, and experience as a frontend developer. The goal of this portfolio is to present my technical abilities in a clean, modern, and professional way.
 
 ##  Live Website
-[View Portfolio](https://your-netlify-link.netlify.app)
+[View Portfolio](https://698db363e035811121f1a014--gorgeous-conkies-bdb6dc.netlify.app/)
 
 ##  Tech Stack
 - React (Vite)
